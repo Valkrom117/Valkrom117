@@ -4,3 +4,5 @@ Though I have worked many years with data, I'm currently growing my skills towar
 * Story-driven video game akin to Papers Please, using C# and Godot.
 
 I'm constantly studying to keep up with current technologies, including agentic AI and prompt engineering, So if you know a company that could use my skill set, send me a message!
+
+[![Boot.dev Backend Developer Path (TypeScript) certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/56366085-deea-4d21-befa-534db94e1f2f.jpeg?v=1786589442)](https://www.boot.dev/certificates/56366085-deea-4d21-befa-534db94e1f2f)
